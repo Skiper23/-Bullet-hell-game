@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(109,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(114,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(115,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(116,13): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(117,13): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(118,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(119,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(120,13): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(121,13): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(153,37): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(153,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(149,11): warning C4101: "poy": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(149,20): warning C4101: "py": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(149,16): warning C4101: "px": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(149,6): warning C4101: "pox": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(167,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(168,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(171,17): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(172,17): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(194,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(195,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(196,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(197,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(211,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(212,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(213,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(214,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(245,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(248,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(251,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(273,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(280,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(287,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(294,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(406,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(602,10): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(655,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(655,35): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(657,32): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(658,32): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(668,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(668,45): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(670,55): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(670,41): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(672,55): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nowac\Desktop\PP-Projekt2\main.cpp(672,41): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  szablon2vs19.vcxproj -> C:\Users\nowac\Desktop\PP-Projekt2\Debug\szablon2vs19.exe
